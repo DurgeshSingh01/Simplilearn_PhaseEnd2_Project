@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndPhase2_Project", "EndPhase2_Project\EndPhase2_Project.csproj", "{EA2596D0-CCEF-4750-9199-D877DC8D2A2D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FAF6D0D6-B783-4986-AE8E-58472F142D56} = {FAF6D0D6-B783-4986-AE8E-58472F142D56}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersLibrary", "PlayersLibrary\PlayersLibrary.csproj", "{FAF6D0D6-B783-4986-AE8E-58472F142D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2596D0-CCEF-4750-9199-D877DC8D2A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2596D0-CCEF-4750-9199-D877DC8D2A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2596D0-CCEF-4750-9199-D877DC8D2A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2596D0-CCEF-4750-9199-D877DC8D2A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF6D0D6-B783-4986-AE8E-58472F142D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF6D0D6-B783-4986-AE8E-58472F142D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF6D0D6-B783-4986-AE8E-58472F142D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF6D0D6-B783-4986-AE8E-58472F142D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54F68D9-0129-4D69-898E-6E44848C02BD}
+	EndGlobalSection
+EndGlobal

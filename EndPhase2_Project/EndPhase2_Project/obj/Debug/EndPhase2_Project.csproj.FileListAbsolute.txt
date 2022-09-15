@@ -1,0 +1,11 @@
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\bin\Debug\EndPhase2_Project.exe.config
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\bin\Debug\EndPhase2_Project.exe
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\bin\Debug\EndPhase2_Project.pdb
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\obj\Debug\EndPhase2_Project.csproj.AssemblyReference.cache
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\obj\Debug\EndPhase2_Project.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\obj\Debug\EndPhase2_Project.csproj.CoreCompileInputs.cache
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\obj\Debug\EndPhase2_Project.exe
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\obj\Debug\EndPhase2_Project.pdb
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\bin\Debug\PlayersLibrary.dll
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\bin\Debug\PlayersLibrary.pdb
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\EndPhase2_Project\obj\Debug\EndPhase2_Project.csproj.CopyComplete

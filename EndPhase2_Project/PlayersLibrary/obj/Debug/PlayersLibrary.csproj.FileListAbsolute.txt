@@ -1,0 +1,6 @@
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\PlayersLibrary\bin\Debug\PlayersLibrary.dll
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\PlayersLibrary\bin\Debug\PlayersLibrary.pdb
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\PlayersLibrary\obj\Debug\PlayersLibrary.csproj.AssemblyReference.cache
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\PlayersLibrary\obj\Debug\PlayersLibrary.csproj.CoreCompileInputs.cache
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\PlayersLibrary\obj\Debug\PlayersLibrary.dll
+D:\Mphasis\Practice Project\EndPhase2_Project\EndPhase2_Project\PlayersLibrary\obj\Debug\PlayersLibrary.pdb
